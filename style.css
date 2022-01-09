@@ -1,0 +1,36 @@
+ h1, h2 {
+ text-align:center;
+ }
+ p{
+ text-align:justify;
+ }
+ p, li {
+font-size:20px;
+ }
+ .trump:hover{
+	 cursor: pointer;
+ }
+ .trump {
+margin: 10px;
+outline: 1px solid #CCC;
+background: #A00;
+color: #FFF;
+height:auto;
+overflow:auto;
+box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+width: 600px;
+height: 600px;
+border-radius: 10px;
+
+h2,h1{
+color: #5B5353;
+background-color: #99ccff;
+border-radius: 8px;
+}
+p,li, ol{
+color: #571E1E;
+}
+.trump {
+  
+
+
