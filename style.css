@@ -1,13 +1,7 @@
- h1, h2 {
- text-align:center;
- }
- p{
- text-align:justify;
- }
- p, li {
-font-size:20px;
- }
- .trump:hover{
+h1, h2,{
+	text-align: center;
+}
+.trump:hover{
 	 cursor: pointer;
  }
  .trump {
@@ -21,6 +15,7 @@ box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
 width: 600px;
 height: 600px;
 border-radius: 10px;
+ }
 
 h2,h1{
 color: #5B5353;
@@ -30,7 +25,22 @@ border-radius: 8px;
 p,li, ol{
 color: #571E1E;
 }
-.trump {
-  
-
-
+ 
+.wahid:hover{
+	 cursor: pointer;
+}
+ion-icon {
+     font-size: 40px; 
+}
+.icon {
+	text-decoration:none;
+}
+.facebook{
+	color:blue;
+}
+.insta{
+color:#E1306C;
+  }
+ .git{
+	 color:black;
+ }	 
