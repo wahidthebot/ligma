@@ -1,2 +1,2 @@
-https://wahidthebot.github.io/ligma/
-ligma
+https://github.com/wahidthebot/ligma.git
+WARNING: Ligma
