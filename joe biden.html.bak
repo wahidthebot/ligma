@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Joe Biden</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<h3> Reasons Why Joe Biden Should Not Get His Pickle Tickled For A Nikel</h3>
+ <img class = "biden" src="biden.png"  onclick="window.open(this.src)"/>
+  <script src="script.js"></script>
+</body>
+<h3> Reason 1 </h3>
+<p> I say this because our man here Joe Biden touches kids. For proof look below this text </p>
+ <img class = "biden2" src="biden2.png"  onclick="window.open(this.src)"/>
+ <h3> Reason 2 </h3>
+<p> Another reason our main man the president should get his pickle tickled is because a man by the name of <mark> "Muhammed Abu Dabi Sali Musali Azeemul Hakkem Ashmal Ahmed Azmul Moksud"</mark> stated in this video these famous lines. Check em out yourself</p>
+ <video width="600" height="320" controls>
+  <source src="biden.mp4" type="video/mp4">
+ </video>
+  <h3> Reason 3 </h3>
+  This gives us the rite of passage to belive that Joe Biden Himself is a very bad man :(. I State that in fact he is doing all of this during the month of Ramadan aswll. SO NOT HALAL MODE
+  <img class = "halal" src="halal.png"  onclick="window.open(this.src)"/>
+  <p>AS WE CAN SEE THIS IS VERY HARAM</p>
+<button class = "button" type="button" onclick="location.href = 'file:///C:/Users/wahid/Desktop/Web%20Development/index.html'">Previous Page </button>
+<button class = "button" type="button" onclick="location.href = 'file:///C:/Users/wahid/Desktop/Web%20Development/hehehaw.html'">Next Page </button>
+
+</html>
